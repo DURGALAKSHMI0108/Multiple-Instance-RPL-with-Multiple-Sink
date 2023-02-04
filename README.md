@@ -1,4 +1,4 @@
-#Secure and Efficient Routing Mechansim for Healthcare Networks
+
 The RPL protocol has evolved to become one of the standard protocols to be used in IoT. However, the current implementation does have its prime focus on homogenous traffic. RPL creates an instance consisting of many DODAGs all with the same objective function (e.g hop count or ETX (expected transmission count)). Thus, a single instance can route homogenous traffic effectively.
 
 Our problem statement thus shall focus on building an efficient routing mechanism for healthcaresector with heterogeneous traffic. To facilitate this, RPL is being modified to support the formation of multiple instances within a single network. 
